@@ -15,7 +15,7 @@ function johnLennonFacts (facts) {
   
   let i = 0;
  
-  while (i < arrFacts.length) {
+  while (i < facts.length) {
   
   arrFacts[i++] += '!!!';
   
