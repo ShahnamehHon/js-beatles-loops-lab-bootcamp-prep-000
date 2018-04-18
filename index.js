@@ -29,8 +29,9 @@ function iLoveTheBeatles (number) {
   
   let arr = [];
   
-  do {
-    
+  let i = 0;
+  
+  do 
     console.log(arr["I love you beatles"])
   } while() {
     
