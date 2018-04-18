@@ -31,6 +31,6 @@ function iLoveTheBeatles (number) {
   
   do {
     
-    
+    console.log(arr)
   }
 }
