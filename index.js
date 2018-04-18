@@ -32,7 +32,7 @@ function iLoveTheBeatles (number) {
   do {
     
     console.log(arr["I love you beatles"])
-  } while {
+  } while() {
     
   }
 }
