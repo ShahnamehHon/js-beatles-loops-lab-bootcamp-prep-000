@@ -31,9 +31,7 @@ function iLoveTheBeatles (number) {
   
   let i = 0;
   
-  do 
-    console.log(arr["I love you beatles"])
-  } while() {
+  do {
     
+    arr
   }
-}
