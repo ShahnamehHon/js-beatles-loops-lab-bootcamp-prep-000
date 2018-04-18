@@ -6,4 +6,7 @@ function theBeatlesPlay (arrayMusicians, arrayInstruments) {
     
     arr.push(`${arrayMusicians[i]} plays ${arrayInstruments[i]}`);
   }
+  
+  return arr;
+  
 }
