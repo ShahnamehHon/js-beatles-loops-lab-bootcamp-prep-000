@@ -18,10 +18,12 @@ function johnLennonFacts (arrFacts) {
   while (i < arrFacts.length) {
   
   arrFacts[i++] += '!!!';
- 
-  return facts;
+  
+    }
+  
+    return facts;
 
-}}
+    }
 
 function iLoveTheBeatles (number) {
   
